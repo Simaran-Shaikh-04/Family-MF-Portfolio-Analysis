@@ -174,11 +174,9 @@ family-mf-portfolio-analysis/
 educational and portfolio documentation purposes. 
 All recommendations were made under the supervision 
 of Johann da Silva, Research Analyst and Portfolio 
-Strategist, Precision Investments.*
+Strategist.*
 
-*Returns shown are absolute returns since inception. 
-XIRR not computed due to unavailability of 
-individual transaction dates.*
+*Returns shown are absolute returns since inception.*
 
 ---
 
