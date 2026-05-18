@@ -148,7 +148,7 @@ Once corpus reaches ₹2,40,00,000:
 ---
 
 ## 📁 Repository Structure
-
+```
 family-mf-portfolio-analysis/
 ├── README.md
 ├── data/
@@ -160,7 +160,7 @@ family-mf-portfolio-analysis/
 ├── fathers_analysis.png
 ├── mothers_analysis.png
 └── sons_analysis.png
-
+```
 ---
 
 ## 🏁 Conclusion
