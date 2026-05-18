@@ -209,7 +209,7 @@ achievable within 4-5 years with minor adjustments.
 *Client data used with permission for educational 
 and portfolio documentation purposes under 
 supervision of Johann da Silva, Research Analyst 
-and Portfolio Strategist, Precision Investments.*
+and Portfolio Strategist.*
 
 *Returns shown are absolute returns since inception. 
 Ideal allocations based on standard financial 
